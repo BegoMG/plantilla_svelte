@@ -27,4 +27,5 @@ npm run build
 Estilos css globales --> app.css (cada componente aportará los suyos)
 
 Componentes Svelte --> /lib
+
 Imágenes, vídeos, etc --> /assets
