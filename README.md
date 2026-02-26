@@ -1,6 +1,7 @@
 # Plantilla Svelte + Vite
 
 Plantilla inicial de Svelte para LV (bundler --> Vite)
+Es necesario tener instalado node.js
 
 ## Para usar la plantilla:
 
